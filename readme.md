@@ -1,0 +1,1 @@
+This is a very classic game which we are familiar with it. We had played this game in our school days. As we r coding freak our best friend is ours computer. So in this game we will compete with computer based on full randomo selection of computer.
